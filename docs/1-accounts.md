@@ -1,5 +1,3 @@
-
-
 # 1. Account & PAT Creation
 This guide will go over how to set up GitHub accounts. This Github account will be used to clone and update the entire repository. You will only need to do this once for every developer/maintainer who works on this. There are 2 options:
 
