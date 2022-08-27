@@ -8,4 +8,15 @@ Use the following command to clone the repository to the desired folder:
 ```
 $ git clone https://github.com/tellmemuse/tellmemuse.github.io.git
 ```
-This will create a new folder called `tellmemuse.github.io` within the previously selected folder, containing all the code on the GitHub repository.
+This will create a new folder called `tellmemuse.github.io` within the previously selected folder, containing all the code on the GitHub repository. A successful output will look something like this:
+![successful-clone](images\successful-clone.png)
+
+Next we have to navigate our terminal to the repository. 
+
+In the same terminal window, type the following command
+```
+$ cd tellmemuse.github.io
+```
+This will put our terminal in the correct repository.
+
+This completes the set-up process of the repository. You will only need to complete the process once. The next steps will cover what to do after updating the repository.
